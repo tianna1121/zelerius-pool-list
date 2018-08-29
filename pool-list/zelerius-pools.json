@@ -1,0 +1,18 @@
+{
+    "pools" : [
+        {
+            "name" : "Zelerius Official Pool",
+            "url" : "http://pool.zelerius.org/",
+            "api" : "http://pool.zelerius.org:8117/",
+            "type" : "node.js",
+            "miningAddress" : "pool.zelerius.org"
+        },
+        {
+            "name" : "Zelerius Official Secondary Pool",
+            "url" : "http://pool.bitsumcash.org/",
+            "api" : "http://pool.bitsumcash.org:8117/",
+            "type" : "forknote",
+            "miningAddress" : "pool.bitsumcash.org"
+        }    
+    ]
+}
