@@ -24,5 +24,5 @@ If you run a pool, please **submit a Pull Request** against *pool-list/zelerius-
     ```
 
 *  Possible values for **type**
-  - node.js
-  - other
+    - node.js
+    - other
