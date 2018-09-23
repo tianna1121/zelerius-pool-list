@@ -15,9 +15,10 @@
             "type" : "node.js",
             "miningAddress" : "pool.bitsumcash.org"
         },
+        {
             "name" : "Crypto9Coin.cf",
-            "url" : "https://crypto9coin.cf/zls",
-            "api" : "https://crypto9coin.cf:48084",
+            "url" : "https://crypto9coin.cf/zls/",
+            "api" : "https://crypto9coin.cf:48084/",
             "type" : "node.js",
             "miningAddress" : "crypto9coin.cf"
         }
