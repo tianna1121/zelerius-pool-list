@@ -2,14 +2,14 @@
     "pools" :
     [
         {
-            "name" : "[1][SSL]ZeleriusOfficialPool",
+            "name" : "[1]OfficialZeleriusMiningPool",
             "url" : "https://pool.zelerius.org/",
             "api" : "https://pool.zelerius.org:8119/",
             "type" : "node.js",
             "miningAddress" : "pool.zelerius.org"
         },
         {
-            "name" : "[2]ZeleriusOfficialPool",
+            "name" : "[2]OfficialZeleriusMiningPool",
             "url" : "http://pool.bitsumcash.org/",
             "api" : "http://pool.bitsumcash.org:8118/",
             "type" : "node.js",
@@ -21,6 +21,13 @@
             "api" : "https://crypto9coin.cf:48084/",
             "type" : "node.js",
             "miningAddress" : "crypto9coin.cf"
+        },
+        {
+            "name" : "ZeleriusPoolRU",
+            "url" : "http://pool.zelerius.ru/",
+            "api" : "http://pool.zelerius.ru:8117/",
+            "type" : "node.js",
+            "miningAddress" : "pool.zelerius.ru"
         }
     ]
 }
