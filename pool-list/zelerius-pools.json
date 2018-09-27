@@ -16,18 +16,25 @@
             "miningAddress" : "pool.bitsumcash.org"
         },
         {
-            "name" : "Crypto9Coin.cf",
+            "name" : "Crypto9Coin",
             "url" : "https://crypto9coin.cf/zls/",
             "api" : "https://crypto9coin.cf:48084/",
             "type" : "node.js",
             "miningAddress" : "crypto9coin.cf"
         },
         {
-            "name" : "ZeleriusPoolRU",
+            "name" : "ZeleriusPoolRu",
             "url" : "http://pool.zelerius.ru/",
             "api" : "http://pool.zelerius.ru:8117/",
             "type" : "node.js",
             "miningAddress" : "pool.zelerius.ru"
+        },
+        {
+            "name" : "18.220.185.175",
+            "url" : "http://18.220.185.175/",
+            "api" : "http://18.220.185.175:8117/",
+            "type" : "node.js",
+            "miningAddress" : "18.220.185.175"
         }
     ]
 }
