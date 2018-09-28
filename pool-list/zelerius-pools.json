@@ -30,11 +30,11 @@
             "miningAddress" : "pool.zelerius.ru"
         },
         {
-            "name" : "18.220.185.175",
-            "url" : "http://18.220.185.175/",
-            "api" : "http://18.220.185.175:8117/",
+            "name" : "ZeleriusZapto",
+            "url" : "http://zelerius.zapto.org/",
+            "api" : "http://zelerius.zapto.org:8117/",
             "type" : "node.js",
-            "miningAddress" : "18.220.185.175"
+            "miningAddress" : "zelerius.zapto.org"
         }
     ]
 }
