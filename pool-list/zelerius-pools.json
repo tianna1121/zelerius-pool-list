@@ -35,6 +35,13 @@
             "api" : "http://zelerius.zapto.org:8117/",
             "type" : "node.js",
             "miningAddress" : "zelerius.zapto.org"
+        },
+        {
+            "name" : "ZlsSytes",
+            "url" : "http://zls.sytes.net/",
+            "api" : "http://zls.sytes.net:8117/",
+            "type" : "node.js",
+            "miningAddress" : "zls.sytes.net"
         }
     ]
 }
