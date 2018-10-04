@@ -42,6 +42,13 @@
             "api" : "http://zls.sytes.net:8117/",
             "type" : "node.js",
             "miningAddress" : "zls.sytes.net"
+        },
+        {
+            "name" : "ZeleriusMultipools",
+            "url" : "https://zls.multipools.club/",
+            "api" : "https://zls.multipools.club/api/",
+            "type" : "node.js",
+            "miningAddress" : "stratum-zls.multipools.club"
         }
     ]
 }
