@@ -49,6 +49,13 @@
             "api" : "https://zls.multipools.club/api/",
             "type" : "node.js",
             "miningAddress" : "stratum-zls.multipools.club"
+        },
+        {
+            "name" : "Youpool",
+            "url" : "http://youpool.io/ZLS/",
+            "api" : "http://zls.youpool.io:8121/stats",
+            "type" : "node.js",
+            "miningAddress" : "zls.youpool.io"
         }
     ]
 }
