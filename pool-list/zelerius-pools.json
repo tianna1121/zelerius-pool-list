@@ -53,7 +53,7 @@
         {
             "name" : "Youpool",
             "url" : "http://youpool.io/ZLS/",
-            "api" : "http://zls.youpool.io:8121/stats",
+            "api" : "http://zls.youpool.io:8121/",
             "type" : "node.js",
             "miningAddress" : "zls.youpool.io"
         }
